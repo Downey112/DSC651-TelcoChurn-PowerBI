@@ -1,4 +1,5 @@
 # 📊 Telco Customer Churn Analysis Dashboard
+<img width="1700" height="934" alt="image" src="https://github.com/user-attachments/assets/721b72c2-d50b-435e-abc0-4f9a3e493aab" />
 
 **Course:** DSC651 — Data Representation and Reporting Techniques  
 **Group:** CDCS2416A | Universiti Teknologi MARA  
