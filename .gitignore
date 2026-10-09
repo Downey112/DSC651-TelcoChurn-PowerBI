@@ -1,0 +1,11 @@
+# Office / Power BI temp and lock files
+~$*
+*.tmp
+*.bak
+.pbi/localSettings.json
+.pbi/cache.abf
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

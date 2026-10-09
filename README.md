@@ -19,6 +19,11 @@
 | `ProjectPowerBI_DSC651_Telco.pbix` | Main Power BI Dashboard |
 | `Cleaneddataset_with dax_and_all.xlsx` | Cleaned IBM Telco Dataset (7,043 rows) |
 | `CustomerChurnAnalysis_PresentationSlide.pptx` | Presentation Slides |
+| `slides/CustomerChurnAnalysis_draft.pptx` | Earlier draft of the slides |
+| `data/TelcoChurn_PowerBI_Ready.xlsx` | Prepared dataset loaded into Power BI |
+| `data/raw/` | Original IBM Telco Customer Churn source files |
+| `versions/` | Earlier saved versions of the dashboard, named by save date |
+| `docs/` | Project proposals and the written group report |
 
 ## 📊 Dashboard Features
 - 7,043 customer records from IBM Telco Dataset
