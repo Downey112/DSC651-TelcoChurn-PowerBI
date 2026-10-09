@@ -6,12 +6,10 @@
 **Supervisor:** Dr Amri Bin Ab. Rahman  
 
 ## 👥 Group Members
-| Name | Student ID |
-|------|-----------|
-| Nurul Amira Ainna Binti Abdullah |  |
-| Adriana Maisarah Binti Mohd Zamri |  |
-| Muhammad Luqman Hakim Bin Syahrulnizam |  |
-| Muhammad Luqman Haqimi Bin Shahmizan |  |
+- Nurul Amira Ainna Binti Abdullah
+- Adriana Maisarah Binti Mohd Zamri
+- Muhammad Luqman Hakim Bin Syahrulnizam
+- Muhammad Luqman Haqimi Bin Shahmizan
 
 ## 📁 Files
 | File | Description |
